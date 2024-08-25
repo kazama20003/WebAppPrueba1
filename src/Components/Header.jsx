@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Header.css"
 
 export const Header = () => {
   return (
@@ -12,6 +13,7 @@ export const Header = () => {
             <li>Categorias</li>
             <li>BLog</li>
             <li>Contactos</li>
+            <li>Sobre mi</li>
         </ul>
         </nav>
     </header>
